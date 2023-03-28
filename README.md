@@ -1,5 +1,4 @@
-# 🥑📱 GROCERY SHOP APP x FLUTTER
+Online cosmetics shop app on flutter
+![image](https://user-images.githubusercontent.com/89197019/228123192-6b2445e1-2296-4816-83f4-0e79786904c6.png)
 
-Watch tutorial here: https://youtu.be/uSljGJGSl6w
-
-![53AC0750-FB81-4C11-9349-448E7FC4717E](https://user-images.githubusercontent.com/29016489/202695738-b37d8ffe-a2c7-41fb-9719-b032bb1ab8c4.JPG)
+![image](https://user-images.githubusercontent.com/89197019/228123222-326d11f8-6c85-4793-beae-db887b32b5b4.png)
